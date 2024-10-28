@@ -1,5 +1,5 @@
 <h1>Hello! I'm FELJUN B. JOMERO 👋</h1>
-<p>I am a passionate student studying computer science. I love coding (intermediate level), and I am interested in exploring various aspect of my field.</p>
+<p>I am a passionate student studying computer science. I love coding (intermediate level), and I am interested in exploring various aspect of the tech industry.</p>
 
 <h2>EDUCATION:</h2>
 Bachelor of Science in <b>Computer Science</b>
@@ -39,4 +39,4 @@ Bachelor of Science in <b>Computer Science</b>
 </ul>
 <h2>Let's have a conversation!</h2>
 <a href = www.linkedin.com/in/feljun-jomero-228036297> LinkedIn Profile</a>
-email: feljunjomero@gmail.com
+<br>email: feljunjomero@gmail.com
