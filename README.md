@@ -4,7 +4,7 @@
 <h2>EDUCATION:</h2>
 Bachelor of Science in <b>Computer Science</b>
 <br><i>New Era University, Philippines</i>
-<br><i>2021 - Present</i>
+<br><i>2022 - Present</i>
 
 <h2>CERTIFICATIONS:</h2>
 <a href = https://courses.cognitiveclass.ai/certificates/97e8b2c5b8ca452e83fc8cf0a328e0ca > SQL and Relational Databases 101</a>
