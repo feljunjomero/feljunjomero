@@ -8,6 +8,7 @@ Bachelor of Science in <b>Computer Science</b>
 
 <h2>CERTIFICATIONS:</h2>
 <a href = https://courses.cognitiveclass.ai/certificates/97e8b2c5b8ca452e83fc8cf0a328e0ca > SQL and Relational Databases 101</a>
+<a href = https://catalog-education.oracle.com/pls/certview/sharebadge?id=BC4E8E5732254F7AF140DB7D5A0D180B51E9F955A7500D2704E0CF1301F5A29A > Oracle Cloud Infrastructure Foundations Associate </a>
 
 <h2>SKILL SETS:</h2>
 <ul>
